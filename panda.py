@@ -1,12 +1,11 @@
 import pandas as pd
  # Load the dataset
- file_path = 'chicago.csv'  # Make sure the dataset is in the same 
-directory as this script
+ file_path = 'chicago.csv'  # Make sure the dataset is in the same directory as this script
  df = pd.read_csv(file_path)
  # Basic Data Types
  # Integers and Floats
  total_trip_duration = 
-average_trip_duration =
+ average_trip_duration =
  # Strings
  first_start_station = 
 # Booleans
